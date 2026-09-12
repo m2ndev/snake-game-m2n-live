@@ -1,4 +1,4 @@
-import { SnakeGame } from './dist/index.mjs';
+import { SnakeGame } from 'snake-game-m2n';
 
 function App() {
   return (
